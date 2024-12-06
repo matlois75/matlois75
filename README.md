@@ -2,8 +2,7 @@
 <h3 align="center">AI/ML Developer & Computer Science Student</h3>
 
 <div align="center">
-  
-  [![LeetCode user matlois75](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmatlois75&logo=leetcode&logoColor=yellow)](https://leetcode.com/matlois75/) <span>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/mathysloiselle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;</span> <span><a href="https://instagram.com/mathys.loiselle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></span>
+  <span><a href="https://linkedin.com/in/mathysloiselle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;</span></a>&nbsp;&nbsp;&nbsp;</span> <span><a href="https://mathys-loiselle-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&labelColor=ffffff&color=ffffff&logoColor=2563eb&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iOCIgZmlsbD0iIzI1NjNlYiIvPjx0ZXh0IHg9IjE2IiB5PSIyMiIgZm9udC1mYW1pbHk9IkFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI2MDAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5NTDwvdGV4dD48L3N2Zz4=" />
 </div>
 
 ### 🎓 About Me
@@ -12,7 +11,7 @@
 - 🤖 Former Computer Vision Engineer at Nano Stride
 - 🌍 Bilingual in English and French
 
-### 🚀 Current Projects
+### 🚀 Projects
 - 🤖 DQN-based Reinforcement Learning agent for Rocket League
 - 🎯 Turret RC Car with facial recognition and tracking
 - 🤖 Cody AI Robot - facial recognition and tracking system
@@ -38,11 +37,6 @@
     <td>Git • VSCode • JetBrains IDEs • Jupyter</td>
 </tr>
 </table>
-
-### 🏆 Achievements
-- 🏅 6th Place in SCS Coding Competition (Sep 2023)
-- 👥 Member of Google Developer Student Club (GDSC)
-- 🎓 Outstanding Academic Performance: Data Structures & Algorithms (A+), Theoretical CS (A+), Computer Graphics (A), Operating Systems (A-)
 
 ### 🎯 Areas of Interest
 - 🧠 Machine Learning & Deep Learning
