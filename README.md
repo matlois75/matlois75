@@ -2,11 +2,11 @@
 <h3 align="center">AI/ML Developer & Computer Science Student</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/mathysloiselle">
+  <a href="https://linkedin.com/in/mathysloiselle" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="mathysloiselle.work">
+  <a href="https://mathysloiselle.work" target="_blank">
     <img src="https://img.shields.io/badge/-PORTFOLIO-2563eb?style=for-the-badge&logoColor=white" alt="Portfolio">
   </a>
 </div>
