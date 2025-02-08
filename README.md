@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathys</h1>
+<h1 align="center">Hi 👋, I'm Mathys Loiselle</h1>
 <h3 align="center">AI/ML Developer & Computer Science Student</h3>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
     
 <br/>
-I'm an AI/ML Developer and Computer Science student at Concordia University, passionate about pushing the boundaries of artificial intelligence and its mathematical foundations. Currently focusing on deep learning, reinforcement learning, and their theoretical underpinnings.
+I'm an AI/ML Developer and Computer Science student at Concordia University in Montreal, passionate about pushing the boundaries of artificial intelligence and its mathematical foundations. Currently focusing on deep learning, reinforcement learning, and their theoretical underpinnings.
 
 ## 🎯 Current Focus
 
